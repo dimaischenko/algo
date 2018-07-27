@@ -9,8 +9,8 @@
 #include <sstream>
 #include <string>
 #include <unordered_set>
-#include <set>
 #include <vector>
+#include <set>
 
 template <class Iterator>
 class IteratorRange {
